@@ -1,0 +1,4 @@
+Integração Linux Mint, Microsoft Windows e Github
+sempre no linux usamos 2 tipos de arquivos:
+1 - Na forma txt de texto
+2 - Na forma de extenssões md ou markdown
