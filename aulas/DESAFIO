@@ -1,0 +1,41 @@
+# Projetos com Manjaro e Ubuntu na VirtualBox
+
+Este repositório documenta meus estudos e experimentos utilizando as distribuições **Manjaro** e **Ubuntu** dentro de máquinas virtuais configuradas na **VirtualBox**.
+
+---
+
+## 🖥️ O que é a VirtualBox?
+
+A **VirtualBox** é uma ferramenta de virtualização que permite criar e executar sistemas operacionais completos dentro do computador host, sem precisar instalá-los diretamente no hardware.  
+Isso facilita testes, aprendizado e experimentação com diferentes sistemas operacionais de forma segura.
+
+---
+
+## 🐧 Por que Manjaro e Ubuntu?
+
+### **Ubuntu**
+- Uma das distribuições Linux mais populares.  
+- Fácil de usar e ideal para iniciantes.  
+- Grande comunidade, muitos tutoriais e suporte.
+
+### **Manjaro**
+- Baseado no Arch Linux.  
+- Oferece pacotes mais recentes e melhor controle sobre o sistema.  
+- Leve, rápido e altamente personalizável.
+
+---
+
+## 🎯 Objetivo do Repositório
+
+Este repositório tem como finalidade registrar:
+
+- Configurações das máquinas virtuais  
+- Etapas de instalação dos sistemas  
+- Comandos úteis e ferramentas testadas  
+- Problemas encontrados e suas soluções  
+- Anotações e aprendizados gerais  
+
+---
+
+## 📂 Estrutura (exemplo)
+
